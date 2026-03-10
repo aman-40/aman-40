@@ -4,7 +4,9 @@
 # 💫 About Me:
 🔭 I’m currently working on Desire(A chat app).<br>👯 I’m looking to collaborate with Backend developer.<br>🤝 I’m looking for a healthy network.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about anything as your wish.<br>⚡ Fun fact
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aman-40&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_m_a_n.035) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/unfininished-aman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaramankit113114@gmail.com) 
 
