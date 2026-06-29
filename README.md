@@ -1,41 +1,47 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
+# Hi 👋, I'm Aman Kumar
 
-<h3 align="center">
-Full Stack Developer • AI & Data Science Learner • Open Source Enthusiast
-</h3>
+### 💻 Full Stack Developer • 🤖 AI & Data Science Learner • 🚀 Open Source Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;Java+Developer;Learning+AI+%26+Data+Science;Building+Scalable+Applications;Always+Learning+Something+New" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;Java+Developer;Learning+AI+%26+Data+Science;Building+Real+World+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aman-40&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=aman-40&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student (2023–2027)
-- 💻 Passionate about Full Stack Development
-- 🚀 Currently building **Desire** (Real-Time Chat Application)
-- 🏥 Developing **MediKit** – Smart Healthcare Management Platform
-- 🌱 Currently learning **Data Science**, **Machine Learning**, and **Backend Development**
-- 🤝 Open to Open Source Contributions & Collaboration
-- 💬 Ask me about **React, JavaScript, Firebase, Java, GitHub**
-- 🎯 Goal: Become a Software Engineer at a Product-Based Company
+🎓 **B.Tech CSE Student (2023–2027)**
 
----
+💡 Passionate about building scalable web applications and learning modern technologies.
 
-# 🚀 Current Focus
+### 🌱 Currently Learning
 
-- 📱 Real-Time Chat Application
-- ⚛️ React Ecosystem
-- ☁️ Firebase & Backend
-- 🤖 AI & Machine Learning
-- 📊 Data Science
-- 🌐 Open Source
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+- Backend Development
+- System Design
+
+### 🔭 Currently Working On
+
+- 💬 **Desire** — Real-Time Chat Application
+- 🏥 **MediKit** — Smart Healthcare Management System
+
+### 🤝 Looking For
+
+- Open Source Contributions
+- Full Stack Collaborations
+- Backend Development Projects
+
+### 🎯 Career Goal
+
+Become a Software Engineer at a Product-Based Company while contributing to impactful open-source projects.
 
 ---
 
@@ -44,19 +50,19 @@ Full Stack Developer • AI & Data Science Learner • Open Source Enthusiast
 <p align="center">
 
 <a href="mailto:kumaramankit113114@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 <a href="https://linkedin.com/in/unfininished-aman">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="https://instagram.com/a_m_a_n.035">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://skillicons.dev/icons?i=vercel"/>
+<a href="https://github.com/aman-40">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 </p>
@@ -65,89 +71,132 @@ Full Stack Developer • AI & Data Science Learner • Open Source Enthusiast
 
 # 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,react,nodejs,express,firebase,mongodb,mysql,git,github,linux,bash,vscode,figma" />
+### Languages
 
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css" />
 
----
+### Frontend
 
-# 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />
 
-<p align="center">
+### Backend
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aman-40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-40&layout=compact&theme=tokyonight&hide_border=true"/>
+### Database
 
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-<p align="center">
+### Tools & Platforms
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-40&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,figma" />
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-40&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=aman-40&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 💬 Desire | Real-Time Chat Application |
-| 🏥 MediKit | Smart Healthcare Management Platform |
-| 🌐 Portfolio | Personal Developer Portfolio |
-| 🥤 Soda | Modern Landing Page |
-| ⚡ Ben10 | Interactive React Experience |
+| Project | Description | Status |
+|---------|-------------|--------|
+| 💬 **Desire** | Real-Time Chat Application | 🚧 In Progress |
+| 🏥 **MediKit** | Smart Healthcare Platform | 🚧 In Progress |
+| 🌐 **Portfolio** | Personal Portfolio Website | ✅ Live |
+| 🥤 **Soda** | Modern Landing Page | ✅ Completed |
+| ⚡ **Ben10** | Interactive React Website | ✅ Completed |
 
 ---
 
-# 📚 Currently Learning
+# 📊 GitHub Statistics
 
-✔ React
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aman-40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-40&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aman-40&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-40&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aman-40&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+# 📚 Currently Exploring
+
+✔ React Ecosystem
 ✔ Firebase
 ✔ Node.js
-✔ Express
+✔ Express.js
 ✔ MongoDB
 ✔ Data Science
 ✔ Machine Learning
-✔ System Design
 ✔ DSA
+✔ System Design
+✔ Cloud Computing
 
 ---
 
-# 💡 Developer Quote
+# 💡 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/aman-40/aman-40/output/snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/aman-40/aman-40/output/snake.svg" alt="Snake Animation"/>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+# 📈 GitHub Metrics
 
-### ⭐ If you like my work, consider giving a ⭐ to my repositories!
+- 🚀 Passionate Full Stack Developer
+- 📚 Lifelong Learner
+- 🌍 Open Source Enthusiast
+- 💻 Building Real-World Applications
+- 🎯 Focused on Clean Code & Scalable Solutions
 
-</p>
-```
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
+````
