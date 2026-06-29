@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 
 <h3 align="center">
@@ -117,7 +117,6 @@ Full Stack Developer • AI & Data Science Learner • Open Source Enthusiast
 
 # 📚 Currently Learning
 
-```text
 ✔ React
 ✔ Firebase
 ✔ Node.js
@@ -127,7 +126,6 @@ Full Stack Developer • AI & Data Science Learner • Open Source Enthusiast
 ✔ Machine Learning
 ✔ System Design
 ✔ DSA
-````
 
 ---
 
