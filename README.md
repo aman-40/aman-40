@@ -1,45 +1,155 @@
-<h2 align="left">Hi 👋! My name is Aman... and I'm a Web Developer...</h2>
+````md
+<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 
-
-# 💫 About Me:
-🔭 I’m currently working on Desire(A chat app).<br>👯 I’m looking to collaborate with Backend developer.<br>🤝 I’m looking for a healthy network.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about anything as your wish.<br>⚡ Fun fact
+<h3 align="center">
+Full Stack Developer • AI & Data Science Learner • Open Source Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aman-40&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Developer;Java+Developer;Learning+AI+%26+Data+Science;Building+Scalable+Applications;Always+Learning+Something+New" />
 </p>
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_m_a_n.035) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/unfininished-aman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumaramankit113114@gmail.com) 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aman-40&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aman-40&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-40&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aman-40&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aman-40&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aman-40&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aman-40&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
 
+- 🎓 B.Tech CSE Student (2023–2027)
+- 💻 Passionate about Full Stack Development
+- 🚀 Currently building **Desire** (Real-Time Chat Application)
+- 🏥 Developing **MediKit** – Smart Healthcare Management Platform
+- 🌱 Currently learning **Data Science**, **Machine Learning**, and **Backend Development**
+- 🤝 Open to Open Source Contributions & Collaboration
+- 💬 Ask me about **React, JavaScript, Firebase, Java, GitHub**
+- 🎯 Goal: Become a Software Engineer at a Product-Based Company
 
+---
 
+# 🚀 Current Focus
 
+- 📱 Real-Time Chat Application
+- ⚛️ React Ecosystem
+- ☁️ Firebase & Backend
+- 🤖 AI & Machine Learning
+- 📊 Data Science
+- 🌐 Open Source
 
+---
 
-###
+# 🌐 Connect With Me
 
-<br clear="both">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/aman-40/aman-40/output/snake.svg" alt="Snake animation" />
+<a href="mailto:kumaramankit113114@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-###
+<a href="https://linkedin.com/in/unfininished-aman">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/a_m_a_n.035">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,javascript,react,nodejs,express,firebase,mongodb,mysql,git,github,linux,bash,vscode,figma" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aman-40&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-40&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-40&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-40&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=aman-40&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 💬 Desire | Real-Time Chat Application |
+| 🏥 MediKit | Smart Healthcare Management Platform |
+| 🌐 Portfolio | Personal Developer Portfolio |
+| 🥤 Soda | Modern Landing Page |
+| ⚡ Ben10 | Interactive React Experience |
+
+---
+
+# 📚 Currently Learning
+
+```text
+✔ React
+✔ Firebase
+✔ Node.js
+✔ Express
+✔ MongoDB
+✔ Data Science
+✔ Machine Learning
+✔ System Design
+✔ DSA
+````
+
+---
+
+# 💡 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/aman-40/aman-40/output/snake.svg" alt="snake animation"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ If you like my work, consider giving a ⭐ to my repositories!
+
+</p>
+```
